@@ -15,7 +15,7 @@ This project is a simple employee management system implemented in Python. It al
 2. Clone this repository to your local machine:
 
     ```
-    git clone https://github.com/yourusername/employee-management.git](https://github.com/Akash-Loganathan-18/Employee_Management_System_Project/
+    git clone https://github.com/Akash-Loganathan-18/Employee_Management_System_Project/](https://github.com/Akash-Loganathan-18/Employee_Management_System_Project
     ```
 
 3. Navigate to the project directory:
