@@ -1,4 +1,4 @@
-# Employee Management Project
+# Employee Management System Project
 
 This project is a simple employee management system implemented in Python. It allows users to add, remove, and list out employee information.
 
